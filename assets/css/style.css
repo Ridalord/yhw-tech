@@ -9357,5 +9357,7 @@ footer .uk-background-secondary {
 }
 
 .in-liquid-1 .uk-card-body {
-    padding: 20px;
+    padding: 50px 20px 20px;
+    /* position: absolute; */
+    /* z-index: 1; */
 }
