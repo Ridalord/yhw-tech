@@ -610,7 +610,7 @@ section {
 }
 
 .why-us .img-bg {
-  min-height: 500px;
+  min-height: 400px;
   background-size: cover;
 }
 
@@ -633,7 +633,7 @@ section {
 
 .why-us .swiper {
   /* margin: 80px 80px 70px 80px; */
-  width: 80%;
+  width: 75%;
   margin: auto;
   margin-top: 18%;
   overflow: hidden;
@@ -646,11 +646,11 @@ section {
 }
 
 .why-us .swiper-button-prev {
-  left: 80px;
+  left: 60px;
 }
 
 .why-us .swiper-button-next {
-  right: 80px;
+  right: 60px;
 }
 
 .why-us .swiper-pagination {
