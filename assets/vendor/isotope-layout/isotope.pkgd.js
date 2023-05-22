@@ -1,18 +1,3 @@
-/*!
- * Isotope PACKAGED v3.0.6
- *
- * Licensed GPLv3 for open source use
- * or Isotope Commercial License for commercial use
- *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
- */
-
-/**
- * Bridget makes jQuery widgets
- * v2.0.1
- * MIT license
- */
 
 /* jshint browser: true, strict: true, undef: true, unused: true */
 
@@ -152,11 +137,7 @@ return jQueryBridget;
 
 }));
 
-/**
- * EvEmitter v1.1.0
- * Lil' event emitter
- * MIT License
- */
+
 
 /* jshint unused: true, undef: true, strict: true */
 
@@ -265,11 +246,7 @@ return EvEmitter;
 
 }));
 
-/*!
- * getSize v2.0.3
- * measure size of elements
- * MIT license
- */
+
 
 /* jshint browser: true, strict: true, undef: true, unused: true */
 /* globals console: false */
@@ -473,11 +450,7 @@ return getSize;
 
 });
 
-/**
- * matchesSelector v2.0.2
- * matchesSelector( element, '.selector' )
- * MIT license
- */
+
 
 /*jshint browser: true, strict: true, undef: true, unused: true */
 
@@ -527,10 +500,7 @@ return getSize;
 
 }));
 
-/**
- * Fizzy UI utils v2.0.7
- * MIT license
- */
+
 
 /*jshint browser: true, undef: true, unused: true, strict: true */
 
@@ -1324,11 +1294,7 @@ return Item;
 
 }));
 
-/*!
- * Outlayer v2.1.1
- * the brains and guts of a layout library
- * MIT license
- */
+
 
 ( function( window, factory ) {
   'use strict';
@@ -2500,13 +2466,7 @@ return Item;
 
 }));
 
-/*!
- * Masonry v4.2.1
- * Cascading grid layout library
- * https://masonry.desandro.com
- * MIT License
- * by David DeSandro
- */
+
 
 ( function( window, factory ) {
   // universal module definition
@@ -2939,15 +2899,7 @@ return Vertical;
 
 }));
 
-/*!
- * Isotope v3.0.6
- *
- * Licensed GPLv3 for open source use
- * or Isotope Commercial License for commercial use
- *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
- */
+
 
 ( function( window, factory ) {
   // universal module definition
